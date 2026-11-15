@@ -36,10 +36,11 @@ Links to the primary data sources used in the field.
 
 ### Foundations, Databases & Tools
 
-* [**A Turkish Makam Music Symbolic Database for Music Information Retrieval: SymbTr**](https://zenodo.org/records/15470412) – *M. K. Karaosmanoğlu (ISMIR, 2012)*
+* [**A Culture-Specific Analysis Software for Makam Music Traditions**](https://mtg.upf.edu/system/files/publications/FMA2015_bilgemiracatici_fullpaper.pdf) – *B. M. Atıcı, B. Bozkurt, & S. Şentürk (FMA, 2015)*
 * [**A Corpus for Computational Research of Turkish Makam Music**](http://hdl.handle.net/10230/35358) – *B. Uyar, H. S. Atlı, S. Şentürk, B. Bozkurt & X. Serra (ATMM, 2014)*
 * [**A Symbolic Dataset of Turkish Makam Music Phrases**](https://www.researchgate.net/publication/283123469_A_SYMBOLIC_DATASET_OF_TURKISH_MAKAM_MUSIC_PHRASES) – *M. K. Karaosmanoğlu, B. Bozkurt, A. Holzapfel, & N. Doğrusöz Dişiaçık (FMA, 2014)*
-* [**A Culture-Specific Analysis Software for Makam Music Traditions**](https://mtg.upf.edu/system/files/publications/FMA2015_bilgemiracatici_fullpaper.pdf) – *B. M. Atıcı, B. Bozkurt, & S. Şentürk (FMA, 2015)*
+* [**A Turkish Makam Music Symbolic Database for Music Information Retrieval: SymbTr**](https://zenodo.org/records/15470412) – *M. K. Karaosmanoğlu (ISMIR, 2012)*
+* [**Music Information Retrieval for Turkish Music: Problems, Solutions and Tools**](https://doi.org/10.1109/siu.2009.5136518) – *B. Bozkurt, A. C. Gedik, & M. K. Karaosmanoğlu (SIU, 2009)*
 
 ---
 
@@ -76,24 +77,10 @@ Links to the primary data sources used in the field.
 
 ### Generation and Artificial Intelligence
 
-* [**A Study on the Integration of Artificial Intelligence and Music**](https://dergipark.org.tr/en/pub/opus/issue/86013/1387130) – *S. Keskin & H. Keskin (2025)*
-* [**TuFoC: Regional Classification of Turkish Folk Music Recordings Using Deep Learning**](#) – *D. Abidin*
-* [**A Classification Study for Turkish Folk Music Makam Recognition Using Machine Learning with Data Augmentation Techniques**](#) – *A. Börekci & O. Sevli (2023)*
-* [**Turkish Music Generation using Deep Learning**](#) – *S. Özkan et al. (2020)*
-* [**Music for All: Representational Bias and Cross-Cultural Adaptability of Music Generation Models**](#) – *A. Mehta et al. (2025)*
-
----
-
-### Musicology, Theory & Theses
-
-* [**Türk Musikisi Nazariyatı (The Theory of Turkish Music)**] – *H. S. Arel (1968)*
-* [**Türk Musıkisinin Nazariye ve Esasları**] – *M. E. Karadeniz (1984)*
-* [**Osmanlı - Türk Musıkisinin Kısa Tarihi**] – *C. Behar (2015)*
-* [**Relationships between Prosodic and Musical Meters in the Beste Form of Classical Turkish Music**](https://openaccess.marmara.edu.tr/entities/publication/69dfb4a1-2e7c-46e1-9f13-0a6ef52f6f62) – *T. Bektaş (2005)*
-* [**MakamNetz: A Network-Based Analysis of Makam Transitions**](https://www.researchgate.net/publication/372455121_MakamNetz) – *O. Baysal (2022)*
-* [**Computational Analysis of Audio Recordings and Music Scores for the Description and Discovery of Ottoman-Turkish Makam Music**] – *S. Şentürk (PhD Thesis, UPF, 2016)*
-* [**The Theory and Praxis of Makam in Classical Turkish Music 1910-2010**] – *E. B. Ederer (PhD Thesis, UC Santa Barbara, 2011)*
-* [**Türk Musikisi Sembolik Verileri Üzerinde Hesaplamalı Ezgi Analizi**] – *M. K. Karaosmanoğlu (PhD Thesis, Yıldız Technical University, 2015)*
+* [**TuFoC: Regional Classification of Turkish Folk Music Recordings Using Deep Learning**](https://www.semanticscholar.org/paper/TuFoC%3A-regional-classification-of-Turkish-folk-deep-Abidin/7007887f0d6ab68ac49d3582f2196295f36191b2) – *D. Abidin*
+* [**A Classification Study for Turkish Folk Music Makam Recognition Using Machine Learning with Data Augmentation Techniques**](https://dl.acm.org/doi/abs/10.1007/s00521-023-09177-6) – *A. Börekci & O. Sevli (2023)*
+* [**Turkish Music Generation using Deep Learning**](https://ieeexplore.ieee.org/document/9302283) – *S. Özkan et al. (2020)*
+* [**Usage of Data Mining for Makam Recognition in Classical Turkish Music**](https://doi.org/10.17341/gazimmfd.369557) – *D. Abidin, Ö. Öztürk, & T. Özacar Öztürk (Journal of the Faculty of Engineering and Architecture of Gazi University, 2017)*
 
 ---
 
