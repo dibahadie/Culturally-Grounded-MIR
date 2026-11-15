@@ -52,6 +52,7 @@ Links to the primary data sources used in the field.
 * [**N-gram Based Statistical Makam Detection on Makam Music in Turkey Using Symbolic Data**](https://zenodo.org/records/1417459) – *E. Ünal, B. Bozkurt & M. K. Karaosmanoğlu (2012)*
 * [**A Method for Tonic Frequency Identification of Turkish Makam Music Recordings**](https://mtg.upf.edu/system/files/publications/FMA2015_HSercanATLI_full-paper.pdf) – *H. S. Atlı, B. Bozkurt, & S. Şentürk (FMA, 2015)*
 * [**Computational Analysis of Overall Melodic Progression for Turkish Makam Music**](https://web.archive.org/web/20200228091321/https://zenodo.org/record/1211460/files/2015_1_PenserLimprovisation_Bozkurt.pdf) – *B. Bozkurt (Penser l’improvisation, 2015)*
+* [**A Musical Information Retrieval System for Classical Turkish Music Makams**](https://www.researchgate.net/publication/317102329_A_musical_information_retrieval_system_for_Classical_Turkish_Music_makams) – *M. A. Kızrak & B. Bolat (Simulation, 2017)*
 
 ---
 
@@ -77,9 +78,12 @@ Links to the primary data sources used in the field.
 
 ### Generation and Artificial Intelligence
 
+* [**Classical Turkish Music Composition with LSTM Self-Attention**](https://doi.org/10.38088/jise.1406162) – *A. Kaşif & S. Sevgen (JISE, 2024)*
 * [**TuFoC: Regional Classification of Turkish Folk Music Recordings Using Deep Learning**](https://www.semanticscholar.org/paper/TuFoC%3A-regional-classification-of-Turkish-folk-deep-Abidin/7007887f0d6ab68ac49d3582f2196295f36191b2) – *D. Abidin*
 * [**A Classification Study for Turkish Folk Music Makam Recognition Using Machine Learning with Data Augmentation Techniques**](https://dl.acm.org/doi/abs/10.1007/s00521-023-09177-6) – *A. Börekci & O. Sevli (2023)*
-* [**Turkish Music Generation using Deep Learning**](https://ieeexplore.ieee.org/document/9302283) – *S. Özkan et al. (2020)*
+* [**Deep Learning for Turkish Makam Music Composition**](https://doi.org/10.3906/elk-2101-44) – *İ. H. Parlak, Y. Çebi, C. Işıkhan, & D. Birant (Turkish Journal of Electrical Engineering & Computer Sciences, 2021)*
+* [**Derin Öğrenme ile Türkçe Şarkı Besteleme / Turkish Music Generation using Deep Learning**](https://ieeexplore.ieee.org/document/9302283) – *A. Aydıngün, D. Baglu, B. Canbaz, & A. Kökbıyık (2020)*
+* [**KORAL: Türk Müziği için Makam Tabanlı Öneri Motoru Tasarımı (KORAL: Makam-Based Recommendation Engine Design for Turkish Music)**](https://www.semanticscholar.org/paper/KORAL%3A-T%C3%BCrk-M%C3%BCzi%C4%9Fi-i%C3%A7in-Makam-Tabanl%C4%B1-%C3%96neri-Motoru-%C3%96zt%C3%BCrk-%C3%96zacar/4da1b23e6286b0fc8fc5e3a63e39cc8e2266e70e3) – *Ö. Öztürk, T. Özacar, & D. Abidin (IDAP, 2018)*
 * [**Usage of Data Mining for Makam Recognition in Classical Turkish Music**](https://doi.org/10.17341/gazimmfd.369557) – *D. Abidin, Ö. Öztürk, & T. Özacar Öztürk (Journal of the Faculty of Engineering and Architecture of Gazi University, 2017)*
 
 ---
