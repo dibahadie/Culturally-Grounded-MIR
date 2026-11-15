@@ -41,14 +41,15 @@ Hindustani music is built upon the *Raga* melodic framework and *Tala* rhythmic 
 ### Tonic & Raga Recognition
 * [**Automatic Tonic Identification in Indian Art Music: Approaches and Evaluation**](https://doi.org/10.1080/09298215.2014.889170) – *S. Gulati, A. Bellur, J. Salamon, H. G. Ranjani, V. Ishwar, H. A. Murthy & X. Serra (Journal of New Music Research, 2014)*
 * [**Time-Delayed Melody Surfaces for Rāga Recognition**](https://archives.ismir.net/ismir2016/paper/000014.pdf) – *S. Gulati, J. Serrà, K. K. Ganguli, S. Şentürk, & X. Serra (ISMIR, 2016)*
-* [**Phrase-Based Rāga Recognition Using Vector Space Modeling**](https://ieeexplore.ieee.org/document/7471636) – *S. Gulati, J. Serrà, K. K. Ganguli, & X. Serra (ICASSP, 2016)*
+* [**Phrase-Based Rāga Recognition Using Vector Space Modeling**](https://ieeexplore.ieee.org/document/7471636) – *S. Gulati, J. Serrà, V. Ishwar, S. Şentürk, and X. Serra (ICASSP, 2016)*
+* [**DeepSRGM – Sequence Classification and Ranking in Indian Classical Music with Deep Learning**](https://doi.org/10.48550/arxiv.2402.10168) – *S. T. Madhusudhan & G. Chowdhary (arXiv, 2024)*
+* [**Explainable Deep Learning Analysis for Raga Identification in Indian Art Music**](https://doi.org/10.48550/arxiv.2406.02443) – *P. Singh & V. Arora (arXiv, 2024)*
 
 ---
 
 ### Tala, Rhythm & Structural Analysis
 * [**A Data-Driven Approach to Tala Tracking in Indian Art Music**](https://archives.ismir.net/ismir2014/paper/000030.pdf) – *A. Srinivasamurthy & X. Serra (ISMIR, 2014)*
-* [**Modeling Tempo and Rhythm in Hindustani Vocal Music**](https://archives.ismir.net/ismir2012/paper/000139.pdf) – *A. Srinivasamurthy, P. Rao & X. Serra (ISMIR, 2012)*
-* [**Indian Music Tabla Bols Classification Using Deep Learning**](https://pubs.aip.org/asa/poma/article/56/1/035011/3375815/Indian-music-tabla-bols-classification-using-deep) – *S. Chauhan et al. (POMA, 2026)*
+* [**Indian Music Tabla Bols Classification Using Deep Learning**](https://pubs.aip.org/asa/poma/article/56/1/035011/3375815/Indian-music-tabla-bols-classification-using-deep) – *Nachiketa Tiwari and Akshay Kumar (POMA, 2026)*
 
 ---
 
@@ -61,7 +62,7 @@ Hindustani music is built upon the *Raga* melodic framework and *Tala* rhythmic 
 ### Generation and Artificial Intelligence
 * [**Music for All: Representational Bias and Cross-Cultural Adaptability of Music Generation Models**](https://aclanthology.org/2025.findings-naacl.258/) – *A. Mehta, S. Chauhan, A. Djanibekov, A. Kulkarni, G. Xia, & M. Choudhury (NAACL Findings, 2025)*
 * [**Exploratory Study Of Human-AI Interaction For Hindustani Music**](https://arxiv.org/abs/2411.13846) – *Various Authors (ArXiv Preprint, 2024)*
-* [**Generation of Indian Classical Music using Artificial Intelligence**](https://www.ijsr.net/archive/v9i4/SR20413163527.pdf) – *S. Adhikary et al. (IJSR, 2020)*
+* [**Generation of Indian classical music using Artificial Intelligence: a survey**](https://www.ijsr.net/archive/v9i4/SR20413163527.pdf) – *S. Adhikary et al. (IJSR, 2020)*
 
 ---
 
