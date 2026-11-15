@@ -26,7 +26,7 @@ Hindustani music is built upon the *Raga* melodic framework and *Tala* rhythmic 
 | **Saraga (Hindustani)** | Audio/Annotations | Open dataset of Hindustani art music recordings with time-aligned tonic, pitch, rhythm, and structural annotations by CompMusic. | [MTG Github](https://mtg.github.io/saraga/) |
 | **Dunya Hindustani** | Audio/Metadata | A web-based corpus exploration tool and audio collection by CompMusic. | [Dunya Portal](https://dunya.compmusic.upf.edu/hindustani/) |
 | **Hindustani Tonic Dataset** | Audio | Curated collection specifically benchmarked for automatic tonic identification tasks. | [Zenodo Archive](https://zenodo.org/records/1257114) |
-| **Hindustani Tabla Dataset** | Audio | Annotated recordings of solo and accompanying Tabla strokes (*Bols*) for rhythmic analysis. | [CompMusic Archive](https://compmusic.upf.edu/node/341) |
+| **Hindustani Tabla Dataset** | Audio | Annotated recordings of solo and accompanying Tabla strokes (*Bols*) for rhythmic analysis. | [CompMusic Archive](https://compmusic.upf.edu/tabla-solo-dataset) |
 
 ---
 

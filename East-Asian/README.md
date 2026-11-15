@@ -36,7 +36,7 @@ Links to the primary verified data sources used in the field.
 ### Foundations and Databases
 * [**Creating a Corpus of Jingju (Beijing Opera) Music and Possibilities for Melodic Analysis**](https://archives.ismir.net/ismir2014/paper/000237.pdf) – *R. Caro Repetto & X. Serra (ISMIR, 2014)*
 * [**A Collection of Music Scores for Corpus Based Jingju Singing Research**](https://archives.ismir.net/ismir2017/paper/000119.pdf) – *R. Caro Repetto & X. Serra (ISMIR, 2017)*
-* [**Making Japanese Imperial Court Music Scores Machine-Readable**](https://journals.openedition.org/jtei/5480) – *T. Kameda, K. Terada, et al. (Journal of the Text Encoding Initiative, 2025)*
+* [**Making Japanese Imperial Court Music Scores Machine-Readable**](https://journals.openedition.org/jtei/5480) – *Shintaro Seki, et al. (Journal of the Text Encoding Initiative, 2025)*
 
 ---
 
@@ -54,8 +54,8 @@ Links to the primary verified data sources used in the field.
 ---
 
 ### Generation and Artificial Intelligence
-* [**Adapting a Latent Audio Diffusion Model to Historical Guqin Recordings**](https://arxiv.org/html/2610.07486v1) – *B. L. Evans et al. (ArXiv, 2026)*
-* [**GANkyoku: a Generative Adversarial Network for Shakuhachi Music**](https://arxiv.org/abs/1911.10119) – *J. S. MacCallum et al. (ArXiv, 2019)*
+* [**Adapting a Latent Audio Diffusion Model to Historical Guqin Recordings**](https://arxiv.org/html/2610.07486v1) – *Huanchen Cai (ArXiv, 2026)*
+* [**GANkyoku: a Generative Adversarial Network for Shakuhachi Music**](https://arxiv.org/abs/1911.10119) – *Omar Peracha and Shawn Head (ArXiv, 2019)*
 
 ---
 
