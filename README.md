@@ -1,5 +1,6 @@
 # Culturally-Grounded-MIR
 
+Note: This repo is currently under construction. Please contact me if you would like to include your work or colaborate on this project!
 
 **Culturally-Grounded-MIR** is a curated, open-source library of research papers, datasets, and computational models dedicated to the analysis and generation of non-Western and folk music traditions.
 

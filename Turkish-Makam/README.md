@@ -27,8 +27,8 @@ Links to the primary data sources used in the field.
 | :--- | :--- | :--- | :--- |
 | **SymbTr** | Symbolic | The largest machine-readable collection of Makam scores (2200+ pieces). | [GitHub](https://github.com/MTG/SymbTr) |
 | **Dunya Makam** | Audio/Score | A web-based corpus exploration tool and dataset by CompMusic. | [Dunya Portal](https://dunya.compmusic.upf.edu/makam/) |
-| **MORTY** | Audio | Dataset for Makam recognition and Tonic Identification. | [GitHub](https://github.com/MTG/otmm_makam_recognition_dataset) |
-| **Turkish Makam Phrases** | Symbolic | A symbolic dataset of Turkish makam music phrases (Karaosmanoğlu et al., 2014). | [FMA Proceedings](https://zenodo.org/communities/fma/) |
+| **OTMM** | Audio | Dataset for Makam recognition and Tonic Identification. | [GitHub](https://github.com/MTG/otmm_makam_recognition_dataset) |
+| **Turkish Makam Phrases** | Symbolic | A symbolic dataset of Turkish makam music phrases. | [FMA Proceedings](https://compmusic.upf.edu/node/237) |
 
 ---
 
@@ -38,18 +38,17 @@ Links to the primary data sources used in the field.
 
 * [**A Turkish Makam Music Symbolic Database for Music Information Retrieval: SymbTr**](https://zenodo.org/records/15470412) – *M. K. Karaosmanoğlu (ISMIR, 2012)*
 * [**A Corpus for Computational Research of Turkish Makam Music**](http://hdl.handle.net/10230/35358) – *B. Uyar, H. S. Atlı, S. Şentürk, B. Bozkurt & X. Serra (ATMM, 2014)*
-* [**A Symbolic Dataset of Turkish Makam Music Phrases**] – *M. K. Karaosmanoğlu, B. Bozkurt, A. Holzapfel, & N. Doğrusöz Dişiaçık (FMA, 2014)*
-* [**A Culture-Specific Analysis Software for Makam Music Traditions**] – *B. M. Atıcı, B. Bozkurt, & S. Şentürk (FMA, 2015)*
+* [**A Symbolic Dataset of Turkish Makam Music Phrases**](https://www.researchgate.net/publication/283123469_A_SYMBOLIC_DATASET_OF_TURKISH_MAKAM_MUSIC_PHRASES) – *M. K. Karaosmanoğlu, B. Bozkurt, A. Holzapfel, & N. Doğrusöz Dişiaçık (FMA, 2014)*
+* [**A Culture-Specific Analysis Software for Makam Music Traditions**](https://mtg.upf.edu/system/files/publications/FMA2015_bilgemiracatici_fullpaper.pdf) – *B. M. Atıcı, B. Bozkurt, & S. Şentürk (FMA, 2015)*
 
 ---
 
 ### Automatic Makam, Pitch & Melodic Analysis
 
 * [**An Automatic Pitch Analysis Method for Turkish Maqam Music**](https://doi.org/10.1080/09298210802259520) – *B. Bozkurt (JNMR, 2008)*
-* [**Pitch-Frequency Histogram-Based Music Information Retrieval for Turkish Music**] – *A. C. Gedik & B. Bozkurt (Signal Processing, 2010)*
-* [**Weighing Diverse Theoretical Models on Turkish Maqam Music Against Pitch Measurements**] – *B. Bozkurt, O. Yarman, M. K. Karaosmanoğlu, & C. Akkoç (JNMR, 2009)*
+* [**Pitch-Frequency Histogram-Based Music Information Retrieval for Turkish Music**](https://www.sciencedirect.com/science/article/abs/pii/S0165168409002898) – *A. C. Gedik & B. Bozkurt (Signal Processing, 2010)*
+* [**Weighing Diverse Theoretical Models on Turkish Maqam Music Against Pitch Measurements**](https://www.tandfonline.com/doi/abs/10.1080/09298210903147673) – *B. Bozkurt, O. Yarman, M. K. Karaosmanoğlu, & C. Akkoç (JNMR, 2009)*
 * [**N-gram Based Statistical Makam Detection on Makam Music in Turkey Using Symbolic Data**](https://zenodo.org/records/1417459) – *E. Ünal, B. Bozkurt & M. K. Karaosmanoğlu (2012)*
-* [**Exploration of Makam Structure of Turkish Art Music using Symbolic Data**](https://repositori.upf.edu/handle/10230/22102) – *S. Şentürk, A. Holzapfel & X. Serra (2012)*
 * [**A Unified Computational Analysis of Melodic and Rhythmic Aspects of Turkish Makam Music**](https://repositori.upf.edu/handle/10230/24331) – *H. S. Atlı et al. (2014)*
 * [**A Method for Tonic Frequency Identification of Turkish Makam Music Recordings**] – *H. S. Atlı, B. Bozkurt, & S. Şentürk (FMA, 2015)*
 * [**Computational Analysis of Overall Melodic Progression for Turkish Makam Music**] – *B. Bozkurt (Penser l’improvisation, 2015)*
@@ -67,10 +66,11 @@ Links to the primary data sources used in the field.
 
 ### Automatic Transcription & Lyrics Alignment
 
-* [**Automatic Transcription of Turkish Makam Music**](https://repositori.upf.edu/handle/10230/25399) – *S. Şentürk et al. (ISMIR, 2013)*
+* [**Automatic Transcription of Turkish Makam Music**](#) – *E. Benetos & A. Holzapfel (ISMIR, 2013)*
 * [**Automatic Transcription of Turkish Microtonal Music**] – *E. Benetos & A. Holzapfel (JASA, 2015)*
 * [**Automatic Lyrics-to-Audio Alignment in Classical Turkish Music**] – *G. Dzhambazov, S. Şentürk, & X. Serra (FMA, 2014)*
 * [**On the Use of Note Onsets for Improved Lyrics-to-Audio Alignment in Turkish Makam Music**] – *G. Dzhambazov, A. Srinivasamurthy, S. Şentürk, & X. Serra (ISMIR, 2016)*
+* [**Composition Identification in Ottoman-Turkish Makam Music Using Transposition-Invariant Partial Audio-Score Alignment**](#) – *S. Şentürk & X. Serra (2016)*
 * [**Computational Analysis of Turkish Makam Music: Review of State-of-the-Art and Challenges**](https://repositori.upf.edu/handle/10230/31150) – *B. Bozkurt, R. Ayangil, & A. Holzapfel (JNMR, 2014)*
 
 ---
@@ -78,9 +78,10 @@ Links to the primary data sources used in the field.
 ### Generation and Artificial Intelligence
 
 * [**A Study on the Integration of Artificial Intelligence and Music**](https://dergipark.org.tr/en/pub/opus/issue/86013/1387130) – *S. Keskin & H. Keskin (2025)*
-* [**Turkish Folk Music Classification (TuFoC)**](https://ieeexplore.ieee.org/document/10427455) – *A. Börekci & O. Sevli (2024)*
-* [**Turkish Music Generation using Deep Learning**](https://ieeexplore.ieee.org/document/9447420) – *M. Özkan & H. Günel (2021)*
-* [**Representational Bias and Cross-Cultural Adaptability of Music Generation Models**](https://arxiv.org/abs/2501.07864) – *S. Chaudhuri et al. (2025)*
+* [**TuFoC: Regional Classification of Turkish Folk Music Recordings Using Deep Learning**](#) – *D. Abidin*
+* [**A Classification Study for Turkish Folk Music Makam Recognition Using Machine Learning with Data Augmentation Techniques**](#) – *A. Börekci & O. Sevli (2023)*
+* [**Turkish Music Generation using Deep Learning**](#) – *S. Özkan et al. (2020)*
+* [**Music for All: Representational Bias and Cross-Cultural Adaptability of Music Generation Models**](#) – *A. Mehta et al. (2025)*
 
 ---
 
