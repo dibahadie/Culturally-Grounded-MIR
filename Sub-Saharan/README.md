@@ -57,3 +57,12 @@ Links to the primary verified data sources used in the field.
 * [**Transformation of Music Education in Sub-Saharan Africa: An Assessment of Artificial Intelligence Applications**](https://www.researchgate.net/publication/393732293_TRANSFORMATION_OF_MUSIC_EDUCATION_IN_SUB-SAHARAN_AFRICA_AN_ASSESSMENT_OF_ARTIFICIAL_INTELLIGENCE_APPLICATIONS) – *D. Nkhata (ResearchGate, 2026)*
 * [**AI Music in South Africa: Culturally Grounded Workflows (Jakkals Vibes Case Study)**](https://www.jakkalsvibes.com/pages/ai-music-south-africa.html) – *Industry AI-Assisted Production Frameworks (2026)*
 * [**Evaluating AI Generative Models on Indigenous Music: The Case of Ohangla Polyrhythms**](https://www.ajol.info/index.php/jmca/article/download/333566/313380/752078) – *Various Authors (Journal of Music and Creative Arts, 2024)*
+
+---
+
+## License & Citation
+This curated list is licensed under the **CC-BY-4.0 License**.
+
+If you use this repository for your research, please cite it as follows:
+```text
+Diba Hadi Esfangereh. (2026). Culturally-Grounded-MIR: A Comprehensive Research Hub. GitHub.

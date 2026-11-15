@@ -64,3 +64,10 @@ Hindustani music is built upon the *Raga* melodic framework and *Tala* rhythmic 
 * [**Generation of Indian Classical Music using Artificial Intelligence**](https://www.ijsr.net/archive/v9i4/SR20413163527.pdf) – *S. Adhikary et al. (IJSR, 2020)*
 
 ---
+
+## License & Citation
+This curated list is licensed under the **CC-BY-4.0 License**.
+
+If you use this repository for your research, please cite it as follows:
+```text
+Diba Hadi Esfangereh. (2026). Culturally-Grounded-MIR: A Comprehensive Research Hub. GitHub.

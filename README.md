@@ -20,3 +20,10 @@ Standard MIR algorithms often rely on assumptions from Western tonal music (12-t
 | **[`Persian-Dastgah/`](./Persian-Dastgah)** | Iranian Classical | Radif (repertoire), Gusheh (melodic phrases). |
 
 ---
+
+## License & Citation
+This curated list is licensed under the **CC-BY-4.0 License**.
+
+If you use this repository for your research, please cite it as follows:
+```text
+Diba Hadi Esfangereh. (2026). Culturally-Grounded-MIR: A Comprehensive Research Hub. GitHub.
