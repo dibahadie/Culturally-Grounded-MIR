@@ -10,8 +10,6 @@ Standard MIR algorithms often rely on assumptions from Western tonal music (12-t
 
 ## 📂 Repository Structure
 
-## 📂 Repository Structure
-
 | Region | Subfolder / Path | Focus & Primary Technical Challenges |
 | :--- | :--- | :--- |
 | **East Asian** | **[`East-Asian/Chinese/`](./East-Asian/Chinese)** | *Jingju* (Beijing Opera), *Guqin*, *Guzheng*; pentatonic/heptatonic frameworks, tablature (*jianzipu*), playing techniques. |
