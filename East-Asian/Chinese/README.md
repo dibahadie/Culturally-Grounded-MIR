@@ -1,9 +1,9 @@
-# East-Asian Music Information Retrieval & Generation Paper Collection
+# Chinese Music Information Retrieval & Generation Paper Collection
 
-A curated, comprehensive collection of research papers, datasets, and computational resources for the analysis, recognition, and generative modeling of East Asian traditional music, focusing primarily on Chinese, Japanese, and Korean traditions.
+A curated, comprehensive collection of research papers, datasets, and computational resources for the analysis, recognition, and generative modeling of Chinese traditional music, including *Jingju* (Beijing Opera), *Guqin*, *Guzheng*, and traditional instrumental ensembles.
 
 ## 📖 Overview
-East-Asian traditional music encompasses highly diverse traditions, including Chinese *Jingju* (Beijing Opera) and *Guqin*, Japanese *Gagaku* and *Shakuhachi*, and Korean *Gugak* and *Pansori*. Key computational challenges include analyzing pentatonic and heptatonic pitch frameworks, unmetered or free rhythm structures (such as *jobuki* in Gagaku or *beompae* in Korean music), heterophonic textures, and oral or tablature-based notations. This repository serves as a central hub for researchers tackling these unique MIR challenges.
+Chinese traditional music features pentatonic and heptatonic modal frameworks, expressive microtonal pitch glides and playing techniques, heterophonic textures, and specialized notation systems such as *Guqin* tablature (*jianzipu*) and numbered musical notation (*jianpu*). This repository centralizes datasets and MIR research addressing these computational challenges.
 
 ---
 
@@ -26,8 +26,8 @@ Links to the primary verified data sources used in the field.
 | **Jingju Music Scores Collection** | Symbolic | A machine-readable collection of 92 *Jingju* (Beijing Opera) scores transcribed into MusicXML format by the CompMusic project. | [CompMusic Archive](https://compmusic.upf.edu/node/348) |
 | **Jingju A Cappella Dataset** | Audio/Metadata | A dataset of 120 arias consisting of unaccompanied Beijing Opera singing, explicitly built for intonation and evaluation research. | [ArXiv / UPF](https://arxiv.org/pdf/1708.03986) |
 | **Guqin-Dataset** | Symbolic | An open-source symbolic music dataset of *Guqin* tablature and numbered musical notation in MusicXML format. | [GitHub](https://github.com/lukewys/Guqin-Dataset) |
-| **Gugak Acoustic Descriptor Corpus** | Audio | A 3.6 GB segment-level dataset of Korean traditional music (*Gugak*) curated for MIR and digital heritage analysis. | [Zenodo Archive](https://zenodo.org/records/19964647) |
-| **Gugak-VocalSet** | Audio | A multi-genre, studio-quality dataset of Korean traditional vocal music, including *Pansori*. | [ArXiv](https://arxiv.org/html/2610.15350v1) |
+| **ChMusic** | Audio | A traditional Chinese music dataset covering 11 traditional instruments across 55 solo excerpts for instrument recognition benchmarks. | [GitHub](https://github.com/HaoranWeiUTD/ChMusic) |
+| **Guzheng_Tech99** | Audio/Annotations | Solo *Guzheng* recordings with note-level onset, offset, pitch, and instrumental playing technique (IPT) annotations. | [Project Page](https://lidcc.github.io/GuzhengTech99/) / [ArXiv](https://arxiv.org/abs/2303.13272) |
 
 ---
 
@@ -36,7 +36,7 @@ Links to the primary verified data sources used in the field.
 ### Foundations and Databases
 * [**Creating a Corpus of Jingju (Beijing Opera) Music and Possibilities for Melodic Analysis**](https://archives.ismir.net/ismir2014/paper/000237.pdf) – *R. Caro Repetto & X. Serra (ISMIR, 2014)*
 * [**A Collection of Music Scores for Corpus Based Jingju Singing Research**](https://archives.ismir.net/ismir2017/paper/000119.pdf) – *R. Caro Repetto & X. Serra (ISMIR, 2017)*
-* [**Making Japanese Imperial Court Music Scores Machine-Readable: Encoding of Hichiriki Notation as a Case Study**](https://journals.openedition.org/jtei/5480) – *S. Seki (Journal of the Text Encoding Initiative, 2025)*
+* [**ChMusic: A Traditional Chinese Music Dataset for Evaluation of Instrument Recognition**](https://arxiv.org/abs/2108.08470) – *X. Gong, Y. Zhu, H. Zhu, & H. Wei (ArXiv, 2021)*
 
 ---
 
@@ -48,14 +48,12 @@ Links to the primary verified data sources used in the field.
 ---
 
 ### Rhythm, Timing & Structural Analysis
-* [**Analysis of Unmetered Coordination in the Tōgaku Ensemble of Japanese Court Music (Gagaku)**](https://journal.iftawm.org/previous/2025-volume-13-no-2/clayton_kamata-2025/) – *M. Clayton & S. Kamata (Analytical Approaches to World Music, 2025)*
 * [**Transcription and Recognition of Syllable based Percussion Patterns: The Case of Beijing Opera**](https://compmusic.upf.edu/ismir-2014-bo) – *A. Srinivasamurthy, R. Caro Repetto, et al. (ISMIR, 2014)*
 
 ---
 
 ### Generation and Artificial Intelligence
 * [**Adapting a Latent Audio Diffusion Model to Historical Guqin Recordings: A Listening-Driven Case Study**](https://arxiv.org/html/2610.07486v1) – *H. Cai (ArXiv, 2026)*
-* [**GANkyoku: a Generative Adversarial Network for Shakuhachi Music**](https://arxiv.org/abs/1911.10119) – *O. Peracha & S. Head (ArXiv, 2019)*
 
 ---
 

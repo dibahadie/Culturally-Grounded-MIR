@@ -10,15 +10,21 @@ Standard MIR algorithms often rely on assumptions from Western tonal music (12-t
 
 ## 📂 Repository Structure
 
-| Folder | Region/Tradition | Primary Technical Challenges |
+## 📂 Repository Structure
+
+| Region | Subfolder / Path | Focus & Primary Technical Challenges |
 | :--- | :--- | :--- |
-| **[`Turkish-Makam/`](./Turkish-Makam)** | Ottoman-Turkish & Folk | 24-tone intervals, Usul (rhythmic cycles), SymbTr. |
-| **[`Hindustani/`](./Hindustani)** | North Indian Classical | Raga (melodic modes), Alap (improv), Tala (meter). |
-| **[`Carnatic/`](./Carnatic)** | South Indian Classical | Gamaka (ornamentation), Solkattu (rhythm). |
-| **[`Arab-Andalusian/`](./Arab-Andalusian)** | North Africa & Levant | Maqam nuances, Nawba (suite) structure. |
-| **[`East-Asian/`](./East-Asian)** | Chinese, Japanese, Korean | Pentatonicism, Traditional instrumentation, Silk-and-Bamboo. |
-| **[`Sub-Saharan/`](./Sub-Saharan)** | African Traditions | Polyrhythm, Timeline patterns, Timbre analysis. |
-| **[`Persian-Dastgah/`](./Persian-Dastgah)** | Iranian Classical | Radif (repertoire), Gusheh (melodic phrases). |
+| **East Asian** | **[`East-Asian/Chinese/`](./East-Asian/Chinese)** | *Jingju* (Beijing Opera), *Guqin*, *Guzheng*; pentatonic/heptatonic frameworks, tablature (*jianzipu*), playing techniques. |
+| | **[`East-Asian/Japanese/`](./East-Asian/Japanese)** | *Gagaku*, *Shakuhachi*; unmetered ensemble coordination (*jobuki*), *ma*, breath/timbre modeling, *hichiriki* notation. |
+| | **[`East-Asian/Korean/`](./East-Asian/Korean)** | *Gugak*, *Pansori*, *Jeongak*; *sigimsae* pitch inflections, regional *tori*, *jangdan* cycles, *Jeongganbo* notation. |
+| **European Folk & Modal** | **[`European-Folk-and-Modal/Balkan-and-Byzantine/`](./European-Folk-and-Modal/Balkan-and-Byzantine)** | Greek/Balkan folk, Byzantine chant; asymmetric *aksak* meters, neumatic notation, modal *echos*. |
+| | **[`European-Folk-and-Modal/Celtic-and-Nordic/`](./European-Folk-and-Modal/Celtic-and-Nordic)** | Irish/Scottish dance tunes, Swedish *polska*; modal scales, ABC notation corpora, asymmetrical triple-meter microtiming. |
+| | **[`European-Folk-and-Modal/Flamenco/`](./European-Folk-and-Modal/Flamenco)** | Andalusian *Flamenco*; heavily ornamented vocal transcription (*cante*), *palo* classification, 12-beat *compás*. |
+| **Latin American** | **[`Latin-American/`](./Latin-American)** | *Candombe*, *Samba*, *Choro*, *MPB*, *Bambuco*; Afro-Atlantic timelines, groove/microtiming, bi-metric *sesquialtera*. |
+| **Sub-Saharan African** | **[`Sub-Saharan-African/`](./Sub-Saharan-African)** | West, East, & Southern African traditions; polyrhythm, cyclical bell timelines, tonal languages, non-Western tunings (*Timbila*). |
+| **West & Central Asian** | **[`West-Central-Asian/Arab/`](./West-Central-Asian/Arab)** | *Mashriq* *Maqam* & *Maghreb* *Arab-Andalusian*; 24-TET microtonality, *Iqa'at*, *Nawba* suites, *Taqsim*. |
+| | **[`West-Central-Asian/Persian/`](./West-Central-Asian/Persian)** | Iranian Classical (*Dastgah*); *Radif* repertoire, *Gusheh* melodic phrases, *koron*/*sori* microtones, unmetered *Avaz*. |
+| | **[`West-Central-Asian/Turkish/`](./West-Central-Asian/Turkish)** | Ottoman-Turkish *Makam* & Folk; 53-TET/Holdrian commas, *Usul* rhythmic cycles, SymbTr symbolic analysis. |
 
 ---
 
